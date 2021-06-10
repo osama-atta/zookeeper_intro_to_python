@@ -1,3 +1,6 @@
+# First Project
+# Topics include: lists, loops, if statements, and print statements.
+
 camel = r"""
 Switching on the camera in the camel habitat...
  ___.-''''-.
